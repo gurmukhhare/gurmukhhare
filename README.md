@@ -1,8 +1,9 @@
 ### Hi there 👋
 My name is Gurmukh and I am an aspiring Software Engineer.
-- 🔭 I’m currently interning at Royal Bank of Canada (RBC)
-- 🌱 I have recently been diving deep in various development tools and frameworks such as Angular and Spring Boot
+- 🔭 I’m currently interning at the Royal Bank of Canada (RBC)
+- 🤔 Passionate about Full Stack development and utilizing my skills to work on impactful projects
 - 📫 How to reach me: garyhare_12@hotmail.com
+Currently seeking Software Engineer internship opportunities for Summer 2022
 <!--
 **gurmukhhare/gurmukhhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
