@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+My name is Gurmukh and I am an aspiring Software Engineer.
+- 🔭 I’m currently interning at Royal Bank of Canada (RBC)
+- 🌱 I have recently been diving deep in various development tools and frameworks such as Angular and Spring Boot
+- 📫 How to reach me: garyhare_12@hotmail.com
 <!--
 **gurmukhhare/gurmukhhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
