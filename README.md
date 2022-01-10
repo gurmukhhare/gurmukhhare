@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Gurmukh and I am an aspiring Software Engineer.
-- 🔭 Previously interned at the Royal Bank of Canada (RBC) and Avestec Technologies Inc.
+- 🔭 Previously interned as a software engineer at the Royal Bank of Canada (RBC) and Avestec Technologies Inc.
 - 🤔 Passionate about full stack application development and utilizing my skills on innovative and impactful projects
 - 📫 How to reach me: Shoot me an email at garyhare_12@hotmail.com or connect with me on LinkedIn https://www.linkedin.com/in/gurmukhhare/
 
