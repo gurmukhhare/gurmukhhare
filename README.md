@@ -4,7 +4,7 @@ My name is Gurmukh and I am an aspiring Software Engineer.
 - 🤔 Passionate about full stack application development and utilizing my skills on innovative and impactful projects
 - 📫 How to reach me: Shoot me an email at garyhare_12@hotmail.com or connect with me on LinkedIn https://www.linkedin.com/in/gurmukhhare/
 
-⚡ Currently seeking Software Engineer internship opportunities for Summer 2022 ⚡
+⚡ Currently seeking new grad Software Engineer opportunities for 2023 ⚡
 <!--
 **gurmukhhare/gurmukhhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
